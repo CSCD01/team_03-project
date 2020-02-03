@@ -13,6 +13,17 @@ We are `team.name V2`.
 ### Gagan
 
 ### Harsh
+Hi I'm Harsh Patel, I am a 4th year computer science student at the University of Toronto with a specialist in Software Engineering and a minor in Statistics. I will be graduating in the April of 2021 after completing 4 internships.
+
+I have completed three work terms through the Computer Science Coop program, each one being 4 months each. My first work term was at Public Services and Procurment Canada as a web developer where I generated the yearly financial reports of the Canadian government. My second work term was at Index Exchange an ad-tech company where I did full stack work to improve usability of the clients wanting to place ads on websites. My third work term was at Cyclica a Bio-tech start-up where I added features that help users analysis compounds more efficiency and optimized the core machine learning engine.
+
+I will be working at Coinbase in the summer where I hope to learn more concepts about computer science and contribute to the best of my ability.
+
+I have experience in C, C++, Java, Python, Javacript, and various other languages and am familar with frameworks like LLVM, Django, Springboot, Node.js, React, and more.
+
+I look forward to working with my team and contributing in a manner that will help others.
+
+![Linkedin pic](https://media-exp1.licdn.com/dms/image/C5603AQGdsuHJcTWqxA/profile-displayphoto-shrink_200_200/0?e=1586390400&v=beta&t=T7Ru91Cj9RHUCtF8qrV9F-qcMp4VLKQgOAX_K5ZG8oc)
 
 ### Kohilan Mohanarajan
 My name is Kohilan Mohanarajan, a 4<sup>th</sup> year Computer Science student at the University of Toronto, Scarborough Campus.  I'm currently specializing in the Software Engineering stream for my degree, and am in the co-op program.  I anticipate that I will finish my degree by the end of 2020.  
