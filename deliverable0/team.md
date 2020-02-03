@@ -1,5 +1,7 @@
 # The Team
 
+We are `team.name V2`.
+![Team pic](IMG_4723.jpg)
 ## Our Goals
 
 ## Our Strengths
@@ -36,7 +38,13 @@ I have had hands on experience with C, Java, Python, JavaScript, CSS, HTML, Hask
 ## Team Agreement
 
 ### Methods of Communication 
-Communication will occur through Facebook Messenger and Discord Voice Messenger.  Text communication will primarily occur over Facebook Messenger for quicker responses, and Discord will be used for vocal communication that requires more time, such as team meetings.
+Communication will occur through Facebook Messenger and Discord Voice Messenger.  
+
+Discord is a team voice and text chat service. It is similar to Slack, but is prioritized for voice communication. We used it to hold meetings and discuss the product backlog. We benefitted from its easy-to-use system, something that many of us had previously used.
+
+Facebook Messenger is a text chat service.  We used it whenever a quick response was required. Planning for meetings and questions about individual work were done through Messenger.
+
+Text communication will primarily occur over Facebook Messenger for quicker responses, and Discord will be used for vocal communication that requires more time, such as team meetings.
 
 ### Communication Response Times 
 The expectations is that all text communication over Facebook Messenger will have a turnaround time of at most half an hour, as everyone in the group has quick access to the app.  With Discord, the response time is near-instant once the voice call is initiated, the wait times come from waiting for all members to come online.  As meetings will occur at set times, the wait time will only occur when there are technical difficulties setting up audio equipment and establishing a connection.
@@ -51,6 +59,7 @@ Attendance in meetings will be logged in a separate file titled `meetinglogs.md`
 ### Meeting Preparation 
 
 ### Version Control 
+For each commit, the commit message must follow this format: `DELIV[N] - [Name of Committer] - [Commit message]`, where `N` is the current sprint/deliverable, i.e. for Deliverable 0, it would be `DELIV0`.
 
 ### Division of Work 
 
