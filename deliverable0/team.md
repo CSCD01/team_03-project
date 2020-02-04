@@ -4,7 +4,11 @@ We are `team.name V2`.
 ![Team pic](IMG_4723.jpg)
 ## Our Goals
 
+Our ultimate goal is to have our contribution to the finalized open source project pushed to the master branch. Overall, we hope to remain on track throughout the development process and are eager to learn any new techniques and technologies that are required to properly contribute. We hope to have fun, as well as, to practice processes and methodologies that are used in practice.
+
 ## Our Strengths
+
+We have a wide variety of particular interests, both inside and outside of technology. With everyone having experience in Java, Python, and JavaScript we have a good base to work off of when it comes to our three top choices for our project. We have experience in working within dev teams, we've had experience in enterprise architecture and governance, we've had experience in deployments, and many more key aspects that will come in handy when it comes to this project. We will all have key roles to play and it revolves around our well rounded skills in collaboration. 
 
 ## The Members
 
@@ -51,7 +55,7 @@ I am Kanstantsin Ilioukevitch, a 4<sup>th</sup> year Computer Science student cu
 
 My future field interest within Computer Science is Cyber-Security - with a specific interest in network security, malware, and penetration testing. My first co-op term was at the Ministry of Education, Community Services Cluster, as a QA Analyst in charge of administration of the main testing suite - along with other responsibilites. The reamining time was spent at RBC within the RSS team, my responsiblities were upkeep of very high profile business reports, along with the development of an automated project management report to be sent to upper management, directors, and Dave McKay - CEO of RBC. 
 
-I have had hands on experience with C, Java, Python, JavaScript, CSS, HTML, Haskell, and Scheme; with strong preferences to Python, JavaScript, Java, and C.
+I have had hands on experience with C, Java, Python, JavaScript, CSS, HTML, Haskell, and Scheme; with strong preferences to Python, JavaScript, Java, and C. I will bring the skills that I have aquired over the years to contribute to this team.
 
 ![Old picture of myself](https://scontent.fybz2-2.fna.fbcdn.net/v/t31.0-8/p960x960/12471884_800258880102723_5539173782335235875_o.jpg?_nc_cat=104&_nc_ohc=12WtAIJs5HUAX-FBX8D&_nc_ht=scontent.fybz2-2.fna&_nc_tp=6&oh=3d273a3a253975bea7b7dcab21ec7edf&oe=5EC7983A)
 
@@ -60,7 +64,7 @@ I have had hands on experience with C, Java, Python, JavaScript, CSS, HTML, Hask
 ### Methods of Communication 
 Communication will occur through Facebook Messenger and Discord Voice Messenger.  
 
-Discord is a team voice and text chat service. It is similar to Slack, but is prioritized for voice communication. We used it to hold meetings and discuss the product backlog. We benefitted from its easy-to-use system, something that many of us had previously used.
+Discord is a team voice and text chat service. It is similar to Slack, but is prioritized for voice communication. We used it previously to hold meetings and discuss the product backlog in previous courses and will continue to do so throughout this term. We benefitted from its easy-to-use system, something that many of us had previously used.
 
 Facebook Messenger is a text chat service.  We used it whenever a quick response was required. Planning for meetings and questions about individual work were done through Messenger.
 
@@ -76,19 +80,33 @@ Attendance in meetings will be logged in a separate file titled `meetinglogs.md`
 
 ### Running Meetings 
 
+The meetings will be ran by each member. We expect that every single member will be kept up to date with what is going on. We will present what we have going on and whether we have any issues and require help. Once everyone has spoken, we will focus on what goals we have remaining and whether we have to revisit our timeline.
+
 ### Meeting Preparation 
+
+Each member will prepare any material they deem is needed to present to the team.
 
 ### Version Control 
 For each commit, the commit message must follow this format: `DELIV[N] - [Name of Committer] - [Commit message]`, where `N` is the current sprint/deliverable, i.e. for Deliverable 0, it would be `DELIV0`.
 
 ### Division of Work 
 
+Work will be assigned by whomever is interested, and is best fit, to tackle a task. We will also take into consideration other workloads that are present on people's notebooks. 
+
 ### Submitting Deliverables 
+
+All deliverables will be tested prior to being pushed to the master branch. More importantly, deliverables should be pushed to the master branch within 12 hours of the due date with all proper documentation. 
 
 ### Contingency Planning 
 
 #### If a team member drops out
 
+If a team member drops out, any work that was assigned to them will be redistributed across the other team members, and we will have to revist our timelines.
+
 #### If a team member consistently misses meetings 
 
+If a team memeber consistently misses meetings we will have to make sure we get through to that team member to check and see what is going on; whether we have to redistribute work or if there is something else going on.
+
 #### What if a team member is academically dishonest
+
+If a team member is academically dishonest then we have no choice but to bring it up with the proper channels to ensure that the project is not put into a vulnerable place.
