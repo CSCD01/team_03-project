@@ -11,6 +11,15 @@ We are `team.name V2`.
 ### Alexei 
 
 ### Gagan
+My name is Gaganpreet Kaberwal and I am a 4th year computer science student at Uoft Scarborough. I am specializing in Software Engineering and my expected graduation is after winter of 2021.
+
+I have completed two work terms over the course of my coop program. My first work term was at Ministry of Education where I fulfilled the role of a .NET developer. During the course of this workterm, I deployed app services/VMs using MS Azure and optimized environment creation powershell scripts to minimize deployment time. My second work term was over the course of 12 months where I worked as a DevOps Engineer at Oracle Corporation. I automated time consuming processes using ruby scripting and added features to a web-app with an Angular front end while querying Chef data to update SQL databases. One of the major everyday tasks was to monitor environmental errors and Teamcity build pipelines to ensure successful deployments.
+
+Due to my previous projects and work experiences, I have gained experience in Python, Java, C, Javascript, Ruby, Powershell and C#. I am also familiar with technologies like Angular, Sideqik, MySql, Rest etc. 
+
+I hope all these skills with help me deliver results for my team to the best potential.
+
+![Linkedin pic](https://i.ibb.co/fH8tth1/Screen-Shot-2020-02-03-at-10-13-17-PM.png)
 
 ### Harsh
 Hi I'm Harsh Patel, I am a 4th year computer science student at the University of Toronto with a specialist in Software Engineering and a minor in Statistics. I will be graduating in the April of 2021 after completing 4 internships.
