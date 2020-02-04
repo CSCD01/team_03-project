@@ -13,6 +13,12 @@ We have a wide variety of particular interests, both inside and outside of techn
 ## The Members
 
 ### Alexei 
+My name is Alexei Coreiba and I am a 4th year computer science student at the University of Toronto Scarborough Campus, specializing in the software engineering stream. I will be graduating this April of 2020.
+
+I have completed 3 work terms throughout my 4 years here. My first was as a Testing and Technical Services Analyst at CIBC. Here my main project was to create a VBA Excel Macro that would automate the analysis for the team. My second work term was at TDSB as a web developer where I worked with the .NET framework and Angular to contribute to their platform and create a PDF generation and distribution application. My third work term was as at Infor as a software developer where I created a database search engine. This summer, I will be joining Amazon as a full time SDE.
+
+Just to name a few, I have experience with Java, Python, MEAN and MERN stacks, C# and C, as well as SQL and noSQL databases. I look forward to using my knowledge and experience to contribute to this team’s success.
+![Linkedin pic](https://media-exp1.licdn.com/dms/image/C5603AQHf3rZmM2NCdQ/profile-displayphoto-shrink_200_200/0?e=1586390400&v=beta&t=IzIHTuf2ngro1SOczPqHgmvich0j9U4nTCj2Azmu9P8)
 
 ### Gagan
 My name is Gaganpreet Kaberwal and I am a 4th year computer science student at Uoft Scarborough. I am specializing in Software Engineering and my expected graduation is after winter of 2021.
