@@ -1,3 +1,15 @@
+## Build and test your react-bootstrap changes
+
+`cd react-bootstrap`
+`yarn build`
+Now copy `lib/cjs` to the src within the app below
+
+You can now use components like this in App.js:
+`import Alert from './cjs/Alert';`
+`import Carousel from './cjs/Carousel';`
+
+# SET UP
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
