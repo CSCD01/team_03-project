@@ -57,7 +57,7 @@
 ### Deliverable 2
 
 | Criteria | Grade |
-| :-------: | :-----: |
+| :------- | :-----: |
 | Bugs Intro (10) | 10 |  
 | Choice of bugs (5) | 5 |  
 | Correctness (25) | 17 |  
@@ -72,7 +72,7 @@
 ### Interview 2
 
 | Question | Grade |
-| :-------: | :-----: |
+| :------- | :-----: |
 | Summary (1) | 0 |  
 | Demo 1 (2) | 2 |  
 | Explain 1 (1) | 0 |  
@@ -89,20 +89,20 @@
 ### Deliverable 3
 
 | Criteria | Grade |
-| :-------: | :-----: |
-| Issue Description (10) |  |  
-| Implementation Plans (10) |  |  
-| Test (5) |  |  
-| Architecture (10) |  |
-| Presentation (10) |  |  
+| :------- | :-----: |
+| Issue Description (10) | 10 |  
+| Implementation Plans (10) | 10 |  
+| Test (5) | 2 |  
+| Architecture (10) | 10 |
+| Presentation (10) | 8 |  
 
-**Total (45)**:   
-**Comments**:   
+**Total (45)**: 40  
+**Comments**: Need to talk about acceptance testing. Grammer issues "We decided to omit any npm libraries or distributions like react as they as this project is an extension of these libraries and it they will be present and used in all files", more in that paragraph  
 
 ### Interview 3
 
 | Question | Grade |
-| :-------: | :-----: |
+| :------- | :-----: |
 | First Feature (2) | 2 |  
 | Second Feature (2) | 2 |  
 | Explain Reasoning (1) | 1 |  
