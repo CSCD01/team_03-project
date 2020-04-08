@@ -30,10 +30,13 @@ function helper() {
 function App() {
   return (
     <div className="App">
-      <ListGroup>
-          <ListGroup.Item active>
+      <ListGroup >
+          <ListGroup.Item cascadeactive active>
               <ListGroup.Item>
-                1 - active -> normal 
+                1 - active -> normal
+              </ListGroup.Item>
+              <ListGroup.Item>
+                2 - active -> normal
               </ListGroup.Item>
           </ListGroup.Item>
           <ListGroup.Item>
