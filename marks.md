@@ -118,16 +118,17 @@
 
 | Criteria | Grade |
 | :------- | :-----: |
-| Implementation (40) |  |  
-| Testing (20) |  |  
-| User Guide(s) (10) |  |  
-| Design Document (10) |  |
-| Process (20) |  |  
-| Compared with other teams (10) |  |  
-| Presentation (10) |  |  
+| Implementation (40) | 40 |  
+| Testing (20) | 20 |  
+| User Guide(s) (10) | 10 |  
+| Design Document (10) | 0 |
+| Process (20) | 20 |  
+| Compared with other teams (10) | ? |  
+| Presentation (10) | 10 |  
 
-**Total (120)**:   
-**Comments**:   
+**Total (120)**: 100 + ?  
+**Comments**: Feels bad that they determined the issue was intended behaviour. But good job following up with the maintainers.    Design document missing.   
+Note for future: set reviewers on the pull request page on github, and the reviewer (assigned or not) can go to the files changes page, click review changes, and then approve or comment. This makes it so people can be held accountable later 
 
 ### Interview 4
 
